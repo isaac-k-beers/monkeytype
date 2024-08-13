@@ -38488,43 +38488,61 @@
       "text": "Why did you make me do this? You're fighting so you can watch everyone around you die! Think, Mark! You'll outlast every fragile, insignificant being on this planet. You'll live to see this world crumble to dust and blow away! Everyone and everything you know will be gone! What will you have after 500 years?",
       "source": "Invincible (TV series)",
       "length": 309,
-      "id": 7603
+      "id": 7063
     },
     {
       "text": "How do you do music? Well, it's easy. You just face your fears and become your heroes. I don't understand why you're freaking out.",
       "source": "Porter Robinson - Musician",
       "length": 130,
-      "id": 7604
+      "id": 7064
     },
     {
       "text": "What happened Rick? I thought you weren't the good guy anymore, ain't that what you said? Even right here right now you ain't gonna fight for 'em? I'm a better father than you, Rick. I'm better for Lori than you, man. It's 'cause I'm a better man than you, Rick. 'Cause I can be here and I'll fight for it. But you come back here and you just destroy everything!",
       "source": "The Walking Dead",
       "length": 362,
-      "id": 7605
+      "id": 7065
     },
     {
       "text": "This whole time, I thought changing the world was something you did, an act you performed, something you fought for. I don't know if that's true anymore. What if changing the world was just about being here, by showing up no matter how many times we get told we don't belong, by staying true even when we're shamed into being false, by believing in ourselves even when we're told we're too different? And if we all held on to that, if we refuse to budge and fall in line, if we stood our ground for long enough, just maybe... The world can't help but change around us.",
       "source": "Mr. Robot",
       "length": 568,
-      "id": 7606
+      "id": 7066
     },
     {
       "text": "At oh-eight-hundred hours, station time, the Romulan Empire formally declared war against the Dominion. They have already struck fifteen bases along the Cardassian border. So, this is a huge victory for the good guys. This may even be the turning point of the entire war. There's even a 'Welcome to the Fight' party tonight in the wardroom. So I lied, I cheated, I bribed men to cover the crimes of other men. I am an accessory to murder. But most damning thing of all, I think I can live with it. And if I had to do it all over again, I would. Garak was right about one thing. A guilty conscience is a small price to pay for the safety of the Alpha Quadrant, so I will learn to live with it. Because I can live with it. I can live with it. Computer, erase that entire personal log.",
       "source": "Captain Benjamin Sisko, Star Trek: Deep Space Nine",
       "length": 782,
-      "id": 7607
+      "id": 7067
     },
     {
       "text": "Captain's log, stardate 57436.2. The Cerritos is docked at Douglas Station for routine maintenance and resupply. We will soon set course for the capital planet on the Galar system, where we're scheduled to make second contact with the Galardonian high council. First contact is a delicate, high-stakes operation of diplomacy. One must be ready for anything when humanity is interacting with an alien race for the first time. But we don't do that. Our specialty is second contact. Still pretty important. We get all the paperwork signed, make sure we're spelling the name of the planet right, get to know all the good places to eat.",
       "source": "Ensign Bradward Boimler, Star Trek: Lower Decks",
       "length": 631,
-      "id": 7608
+      "id": 7068
     },
     {
       "text": "I've lost many friends. Some heroically, some tragically. The randomness of death is merely a reflection of the unexpected joys we find in life.",
       "source": "Captain Hikaru Sulu, Star Trek: Lower Decks",
       "length": 144,
-      "id": 7609
+      "id": 7069
+    },
+    {
+      "text": "I am Tartar, an AI construct created 12,000 years ago by a brilliant professor. My prime directive is to pass humanity's vast knowledge on to the next worthy lifeform. When your kind became self-aware, I hoped that my long wait was finally over. But as I observed your evolution, I was disgusted! You wage war over minor genetic deviations. You obsess over trivial fashion choices. And so I created a new prime directive: destroy this world and start anew! From the best and brightest test subjects, I created a sludge of supreme DNA. A primordial ooze from which the ultimate lifeform will emerge. Today is the day my vision becomes reality, as I destroy Inkopolis and everyone in it!",
+      "source": "Splatoon 2: Octo Expansion",
+      "length": 685,
+      "id": 7070
+    },
+    {
+      "text": "Sorry, Amanai. I'm not even angry over you right now. I bear no grudge against anyone. It's just that the world feels so, so wonderful right now. Throughout Heaven and Earth, I alone am the honored one.",
+      "source": "Jujutsu Kaisen",
+      "length": 202,
+      "id": 7071
+    },
+    {
+      "text": "To realize that all your life - you know, all your love, all your hate, all your memories, all your pain - it was all the same thing. It was all the same dream, a dream that you had inside a locked room, a dream about being a person. And like a lot of dreams, there's a monster at the end of it.",
+      "source": "True Detective",
+      "length": 295,
+      "id": 7072
     }
   ]
 }
